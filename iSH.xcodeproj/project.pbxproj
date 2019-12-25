@@ -819,22 +819,22 @@
 				TargetAttributes = {
 					BB13F7CA200ACC31003D1C4D = {
 						CreatedOnToolsVersion = 9.2;
-						DevelopmentTeam = CK5SXRTBR7;
+						DevelopmentTeam = HFR65VHSRW;
 						ProvisioningStyle = Automatic;
 					};
 					BB13F7D0200ACCA2003D1C4D = {
 						CreatedOnToolsVersion = 9.2;
-						DevelopmentTeam = CK5SXRTBR7;
+						DevelopmentTeam = HFR65VHSRW;
 						ProvisioningStyle = Automatic;
 					};
 					BB13F7DB200AD81D003D1C4D = {
 						CreatedOnToolsVersion = 9.2;
-						DevelopmentTeam = CK5SXRTBR7;
+						DevelopmentTeam = HFR65VHSRW;
 						ProvisioningStyle = Automatic;
 					};
 					BB792B4F1F96D90D00FFB7A4 = {
 						CreatedOnToolsVersion = 9.0;
-						DevelopmentTeam = CK5SXRTBR7;
+						DevelopmentTeam = HFR65VHSRW;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.ApplicationGroups.iOS = {
@@ -844,7 +844,7 @@
 					};
 					BB88F48F2154760800A341FD = {
 						CreatedOnToolsVersion = 10.0;
-						DevelopmentTeam = CK5SXRTBR7;
+						DevelopmentTeam = HFR65VHSRW;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.ApplicationGroups.iOS = {
@@ -1281,7 +1281,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CURRENT_PROJECT_VERSION = 63;
-				DEVELOPMENT_TEAM = CK5SXRTBR7;
+				DEVELOPMENT_TEAM = HFR65VHSRW;
 				ENABLE_BITCODE = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
@@ -1299,7 +1299,7 @@
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_APP_GROUP_IDENTIFIER = "group.$(ROOT_BUNDLE_IDENTIFIER)";
 				PRODUCT_BUNDLE_IDENTIFIER = "$(ROOT_BUNDLE_IDENTIFIER)";
-				ROOT_BUNDLE_IDENTIFIER = app.ish.iSH;
+				ROOT_BUNDLE_IDENTIFIER = app.chris.iSH;
 				SDKROOT = iphoneos;
 				VALID_ARCHS = arm64;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -1327,7 +1327,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CURRENT_PROJECT_VERSION = 63;
-				DEVELOPMENT_TEAM = CK5SXRTBR7;
+				DEVELOPMENT_TEAM = HFR65VHSRW;
 				ENABLE_BITCODE = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -1343,7 +1343,7 @@
 				MESON_BUILD_DIR = "$(CONFIGURATION_BUILD_DIR)/meson";
 				PRODUCT_APP_GROUP_IDENTIFIER = "group.$(ROOT_BUNDLE_IDENTIFIER)";
 				PRODUCT_BUNDLE_IDENTIFIER = "$(ROOT_BUNDLE_IDENTIFIER)";
-				ROOT_BUNDLE_IDENTIFIER = app.ish.iSH;
+				ROOT_BUNDLE_IDENTIFIER = app.chris.iSH;
 				SDKROOT = iphoneos;
 				VALID_ARCHS = arm64;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -1385,7 +1385,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = CK5SXRTBR7;
+				DEVELOPMENT_TEAM = HFR65VHSRW;
 				ENABLE_BITCODE = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
@@ -1452,7 +1452,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = CK5SXRTBR7;
+				DEVELOPMENT_TEAM = HFR65VHSRW;
 				ENABLE_BITCODE = NO;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
